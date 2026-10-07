@@ -1,3 +1,6 @@
-.video {
-    width: 88%;
+video {
+    width: 90%;
+    margin-right: 3%;
+    margin-left: 3%;
 }
+body{font-family:arial}
